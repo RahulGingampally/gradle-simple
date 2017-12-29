@@ -16,7 +16,5 @@ To install the library add:
    dependencies {
          compile 'com.github.jitpack:gradle-simple:1.0.5'
    }
-   ```  
-   
-   
+   ``` 
 
